@@ -38,6 +38,7 @@ Grid Regional is a free, no-auth, user-friendly API library that provides access
 - [Authors](#authors)
 - [Credit](#credit)
 - [License](#license)
+- [AI Policy](#ai-policy)
 
 <br>
 
@@ -295,3 +296,10 @@ Try the hosted demo via [GitHub Pages Demo](https://lewisrandles.github.io/Grid-
 # License
 
 [MIT License](https://github.com/LewisRandles/Grid-Regional/blob/main/LICENSE)
+
+# AI Policy
+
+This project was developed without the use of AI.
+Contributions containing AI-generated code will not be accepted.
+
+[![Developed by Human, Not by AI](https://notbyai.fyi/img/developed-by-human-not-by-ai-white.svg)](https://notbyai.fyi)
